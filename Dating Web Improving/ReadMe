@@ -1,3 +1,6 @@
 Referencing to https://github.com/apachecn/AiLearning/blob/dev/blog/ml/2.k-%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95.md
 
 Learning KNN to deal with dating web data.
+In the dataset, there are three features: the flight mileages earn per year, the ratio of gaming to real life, and the ice cream consumption per week
+The labels are 'not at all', 'in small doses', 'in large doses'
+
