@@ -1,12 +1,12 @@
-#### KNN Examples
+### KNN Examples
 KNN is applied to:
 1. Dating Web Data
 2. Hand Written Digit Data
 
-#### KNN Basic Theory
+### KNN Basic Theory
 KNN is a supervised learning that does not have the learning process. This algorithm classify different classes based on the calculated distance between the classifying point and all the training points, and it only considers k nearest neighbors. Therefore, the magnitude of the K is important to this algorithm.
 
-#### Three key points to KNN
+### Three key points to KNN
 ##### How to choose the K:
 Small K will cause the small approximation error (only similar train data will be viewed and be useful to the classification) but the large estimation error (too sensitive to nearby data, so noise will affect the classificaiton result a lot). A more complex model is gained, if k is smaller.
 
@@ -27,6 +27,9 @@ There are more method for the distance measuring, such as Euclidean distance, Mi
 
 ##### Decision Rule:
 Voted mathod is applied to the KNN, so the class with higher vote will be the output class.
+
+
+### Algorithms
 
 
 
